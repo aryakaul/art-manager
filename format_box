@@ -1,0 +1,19 @@
+#!/bin/bash
+
+center_script="/home/luak/projects/git/shnippets/center_string"
+
+
+echo "+-------------------------------------------------------+"
+while read p; do
+    echo "|                                                       |"
+    if [[ $(echo "$p" | wc -c) -gt 55 ]]; then
+
+    
+    else
+        echo -n "|"
+        [[ $(($(echo "$p" | wc -c) % 2)) == 0 ]] && $center_script "$p" 55 || ($center_script "$p" 55; echo -n " ")
+        echo "|"
+    fi
+done<$1
+echo "|                                                       |"
+echo "+-------------------------------------------------------+"
