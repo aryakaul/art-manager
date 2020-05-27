@@ -1,0 +1,30 @@
+#!/bin/sh
+
+add_post() {
+    read -ep "What is the name of the art you consumed? " entry_name
+    read -ep "Creator? " creator 
+    read -ep "When did you finish it? (use YYYY-MM-DD format) (press 't' for today) " dateseen
+    read -ep "What are your thoughts on it? " thoughts
+    [[ $dateseen = "t" ]] && dateseen=$(date +'%Y-%m-%d')
+    basename="$dateseen"_"$(echo $entry_name | tr ' ' '_')".txt
+    echo "<b>"$entry_name"</b>" > ../site/"$2"/$basename
+    echo "<b>"$creator"</b><br>" >> ../site/"$2"/$basename
+    echo $thoughts | fold -w 55 -s >> ../site/"$2"/$basename
+    echo "- <a href=/"$2"/$basename>$entry_name</a>" >> ../site/$2.txt
+}
+
+die() {
+    printf 'error: %s.\n' "$1" >&2
+    exit 1
+}
+
+main() {
+    genre_name="$1"
+    genre_folder=$(printf '%s' "${genre_name,,}" | tr ' ' '_')
+    [ ! -d ../site/"$genre_folder" ] || [ -z "$genre_name" ] && die "genre doesn't exist"
+    add_post "$genre_name" "$genre_folder"
+    cd ../
+    ./make
+}
+
+main "$@"

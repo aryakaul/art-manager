@@ -1,0 +1,32 @@
+#!/bin/sh
+
+add_dir() {
+    dirname=$(printf '%s\n' "${1,,}")
+    mkdir -p ../site/"$dirname"
+}
+
+add_file() {
+    fname=$(printf '%s\n' "${1,,}")
+    title=$(printf '%s\n' "${2^^}")
+    echo $title > /tmp/$fname
+    ./format_box /tmp/$fname > ../site/"$fname".txt
+}
+
+add_link() {
+    fname=$(printf '%s\n' "${1,,}")
+    sed -i "/<!--%%GENRES%%-->/a <a href=/$fname>$2</a>" ../template.html 
+    #mv ./template.html ../
+
+}
+
+main() {
+    NAME="$1"
+    NAME_with="$(echo "$NAME" | tr ' ' '_')"
+    add_dir "$NAME_with"
+    add_file "$NAME_with" "$NAME"
+    add_link "$NAME_with" "$NAME"
+    cd ../
+    ./make
+}
+
+main "$@"
