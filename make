@@ -26,7 +26,7 @@
             sed -E '/%%CONTENT%%/d' |
 
             # Insert the page path into the source URL.
-            sed -E "s	%%SOURCE%%	${page##.}	" > "docs/${page%%.txt}.html"
+            sed -E "s	%%SOURCE%%	/art-manager${page##.}	" > "docs/${page%%.txt}.html"
 
             # Hardlink all .txt files to the docs/ directory.
             ln -f "site/$page" "docs/$page"
