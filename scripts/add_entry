@@ -6,11 +6,11 @@ add_post() {
     read -ep "When did you finish it? (use YYYY-MM-DD format) (press 't' for today) " dateseen
     read -ep "What are your thoughts on it? " thoughts
     [[ $dateseen = "t" ]] && dateseen=$(date +'%Y-%m-%d')
-    basename="$dateseen"_"$(echo $entry_name | tr ' ' '_')".txt
-    echo "<b>"$entry_name"</b>" > ../site/"$2"/$basename
-    echo "<b>"$creator"</b><br>" >> ../site/"$2"/$basename
-    echo $thoughts | fold -w 55 -s >> ../site/"$2"/$basename
-    echo "- <a href=/art-manager/"$2"/$basename>$entry_name</a>" >> ../site/$2.txt
+    basename="$dateseen"_"$(echo $entry_name | tr ' ' '_')"
+    echo "<b>"$entry_name"</b>" > ../site/"$2"/$basename.txt
+    echo "<b>"$creator"</b><br>" >> ../site/"$2"/$basename.txt
+    echo $thoughts | fold -w 55 -s >> ../site/"$2"/$basename.txt
+    echo "- <a href=/art-manager/"$2"/"$basename".html>$entry_name</a>" >> ../site/$2.txt
 }
 
 die() {
