@@ -3,19 +3,19 @@
 |                         BOOKS                         |
 |                                                       |
 +-------------------------------------------------------+
-- <a href=/books/2019-04_Trout_Fishing_in_America.txt>Trout Fishing in America</a>
-- <a href=/books/2019-05_Path_to_Power.txt>Path to Power</a>
-- <a href=/books/2019-06-10_Means_of_Ascent.txt>Means of Ascent</a>
-- <a href=/books/2019-07-17_Autobiography.txt>Autobiography</a>
-- <a href=/books/2019-08_Varieties_of_Religious_Experience.txt>Varieties of Religious Experience</a>
-- <a href=/books/2019-09-05_Sapiens.txt>Sapiens</a>
-- <a href=/books/2019-09-10_The_Hermit_and_the_Love_Thief.txt>The Hermit and the Love Thief</a>
-- <a href=/books/2019-11_Master_of_the_Senate.txt>Master of the Senate</a>
-- <a href=/books/2019-10-26_Galactic_North.txt>Galactic North</a>
-- <a href=/books/2019-11-01_Katha_Upanishad:_Dialogue_of_Death_and_Vision_of_Immortality.txt>Katha Upanishad: Dialogue of Death and Vision of Immortality</a>
-- <a href=/books/2019-11-26_The_Sun_Also_Rises.txt>The Sun Also Rises</a>
-- <a href=/books/2020-01-21_The_Powerbroker:_Robert_Moses_and_the_Fall_of_New_York.txt>The Powerbroker: Robert Moses and the Fall of New York</a>
-- <a href=/books/2020-02-06_For_Whom_the_Bell_Tolls.txt>For Whom the Bell Tolls</a>
-- <a href=/books/2020-02-27_Revelation_Space.txt>Revelation Space</a>
-- <a href=/books/2020-03-03_The_Prophet.txt>The Prophet</a>
-- <a href=/books/2020-03-14_Harry_Potter_and_the_Sorcerer's_Stone.txt>Harry Potter and the Sorcerer's Stone</a>
+- <a href=/art-manager/books/2019-04_Trout_Fishing_in_America.txt>Trout Fishing in America</a>
+- <a href=/art-manager/books/2019-05_Path_to_Power.txt>Path to Power</a>
+- <a href=/art-manager/books/2019-06-10_Means_of_Ascent.txt>Means of Ascent</a>
+- <a href=/art-manager/books/2019-07-17_Autobiography.txt>Autobiography</a>
+- <a href=/art-manager/books/2019-08_Varieties_of_Religious_Experience.txt>Varieties of Religious Experience</a>
+- <a href=/art-manager/books/2019-09-05_Sapiens.txt>Sapiens</a>
+- <a href=/art-manager/books/2019-09-10_The_Hermit_and_the_Love_Thief.txt>The Hermit and the Love Thief</a>
+- <a href=/art-manager/books/2019-11_Master_of_the_Senate.txt>Master of the Senate</a>
+- <a href=/art-manager/books/2019-10-26_Galactic_North.txt>Galactic North</a>
+- <a href=/art-manager/books/2019-11-01_Katha_Upanishad:_Dialogue_of_Death_and_Vision_of_Immortality.txt>Katha Upanishad: Dialogue of Death and Vision of Immortality</a>
+- <a href=/art-manager/books/2019-11-26_The_Sun_Also_Rises.txt>The Sun Also Rises</a>
+- <a href=/art-manager/books/2020-01-21_The_Powerbroker:_Robert_Moses_and_the_Fall_of_New_York.txt>The Powerbroker: Robert Moses and the Fall of New York</a>
+- <a href=/art-manager/books/2020-02-06_For_Whom_the_Bell_Tolls.txt>For Whom the Bell Tolls</a>
+- <a href=/art-manager/books/2020-02-27_Revelation_Space.txt>Revelation Space</a>
+- <a href=/art-manager/books/2020-03-03_The_Prophet.txt>The Prophet</a>
+- <a href=/art-manager/books/2020-03-14_Harry_Potter_and_the_Sorcerer's_Stone.txt>Harry Potter and the Sorcerer's Stone</a>
