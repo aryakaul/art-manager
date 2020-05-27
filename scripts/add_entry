@@ -10,7 +10,7 @@ add_post() {
     echo "<b>"$entry_name"</b>" > ../site/"$2"/$basename
     echo "<b>"$creator"</b><br>" >> ../site/"$2"/$basename
     echo $thoughts | fold -w 55 -s >> ../site/"$2"/$basename
-    echo "- <a href=/"$2"/$basename>$entry_name</a>" >> ../site/$2.txt
+    echo "- <a href=/art-manager/"$2"/$basename>$entry_name</a>" >> ../site/$2.txt
 }
 
 die() {

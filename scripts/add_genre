@@ -14,7 +14,7 @@ add_file() {
 
 add_link() {
     fname=$(printf '%s\n' "${1,,}")
-    sed -i "/<!--%%GENRES%%-->/a <a href=/$fname>$2</a>" ../template.html 
+    sed -i "/<!--%%GENRES%%-->/a <a href=/art-manager/$fname>$2</a>" ../template.html 
     #mv ./template.html ../
 
 }
