@@ -10,7 +10,7 @@ add_file() {
     title=$(printf '%s\n' "${2^^}")
     echo $title > /tmp/$fname
     ./format_box /tmp/$fname > ../site/"$fname".txt
-    echo "" > ../site/"$fname".txt
+    echo "" >> ../site/"$fname".txt
 }
 
 add_link() {
