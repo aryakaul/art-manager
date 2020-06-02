@@ -5,3 +5,4 @@
 +-------------------------------------------------------+
 
 - <a href=/art-manager/tv_shows/2020-05-28_The_Wire_Season_1.html>The Wire Season 1</a>
+- <a href=/art-manager/tv_shows/2020-06-01_Avatar_the_Last_Airbender_(Book_1:_Water).html>Avatar the Last Airbender (Book 1: Water)</a>
