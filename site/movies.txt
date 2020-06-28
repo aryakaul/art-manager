@@ -6,3 +6,4 @@
 
 - <a href=/art-manager/movies/2020-06-27_Knives_Out.html>Knives Out</a>
 - <a href=/art-manager/movies/2020-06-24_Ad_Astra.html>Ad Astra</a>
+- <a href=/art-manager/movies/2020-06-10_Uncut_Gems.html>Uncut Gems</a>
