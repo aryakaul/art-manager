@@ -7,3 +7,4 @@
 - <a href=/art-manager/npr_tiny_desk/2020-05-30_Andrew_Bird.html>Andrew Bird</a>
 - <a href=/art-manager/npr_tiny_desk/2020-06-07_Lankum.html>Lankum</a>
 - <a href=/art-manager/npr_tiny_desk/2020-06-13_Cimafunk.html>Cimafunk</a>
+- <a href=/art-manager/npr_tiny_desk/2020-06-30_Brittany_Howard.html>Brittany Howard</a>
