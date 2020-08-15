@@ -8,3 +8,7 @@
 - <a href=/art-manager/tv_shows/2020-06-01_Avatar_the_Last_Airbender_Book_1_Water.html>Avatar the Last Airbender Book 1 Water</a>
 - <a href=/art-manager/tv_shows/2020-06-01_Rick_and_Morty_Season_4.html>Rick and Morty Season 4</a>
 - <a href=/art-manager/tv_shows/2020-06-10_Avatar_the_Last_Airbender_Book_2_Earth.html>Avatar the Last Airbender Book 2 Earth</a>
+- <a href=/art-manager/tv_shows/2020-07-21_Avatar_the_Last_Airbender_Book_3_Fire.html>Avatar the Last Airbender Book 3 Fire</a>
+- <a href=/art-manager/tv_shows/2020-06_Succession_Season_1.html>Succession Season 1</a>
+- <a href=/art-manager/tv_shows/2020-07_Avatar_the_Legend_of_Korra_Book_1_Air.html>Avatar the Legend of Korra Book 1 Air</a>
+- <a href=/art-manager/tv_shows/2020-08_Avatar_the_Legend_of_Korra_Book_2_Spirits.html>Avatar the Legend of Korra Book 2 Spirits</a>
