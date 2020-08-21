@@ -15,3 +15,4 @@
 - <a href=/art-manager/movies/2020-08-01_Election.html>Election</a>
 - <a href=/art-manager/movies/2020-08-12_American_Pickle.html>American Pickle</a>
 - <a href=/art-manager/movies/2020-08-14_Raat_Akeli_Hai.html>Raat Akeli Hai</a>
+- <a href=/art-manager/movies/2020-08-15_The_Dark_Knight.html>The Dark Knight</a>
