@@ -16,3 +16,6 @@
 - <a href=/art-manager/movies/2020-08-12_American_Pickle.html>American Pickle</a>
 - <a href=/art-manager/movies/2020-08-14_Raat_Akeli_Hai.html>Raat Akeli Hai</a>
 - <a href=/art-manager/movies/2020-08-15_The_Dark_Knight.html>The Dark Knight</a>
+- <a href=/art-manager/movies/2020-08-29_Bhaji_on_the_Beach.html>Bhaji on the Beach</a>
+- <a href=/art-manager/movies/2020-07_Back_to_the_Future.html>Back to the Future</a>
+- <a href=/art-manager/movies/2020-08-29_Death_at_a_Funeral.html>Death at a Funeral</a>

@@ -12,3 +12,4 @@
 - <a href=/art-manager/tv_shows/2020-06_Succession_Season_1.html>Succession Season 1</a>
 - <a href=/art-manager/tv_shows/2020-07_Avatar_the_Legend_of_Korra_Book_1_Air.html>Avatar the Legend of Korra Book 1 Air</a>
 - <a href=/art-manager/tv_shows/2020-08_Avatar_the_Legend_of_Korra_Book_2_Spirits.html>Avatar the Legend of Korra Book 2 Spirits</a>
+- <a href=/art-manager/tv_shows/2020-08_Avatar_the_Legend_of_Korra_Book_3_Change.html>Avatar the Legend of Korra Book 3 Change</a>
