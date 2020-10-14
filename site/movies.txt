@@ -4,6 +4,7 @@
 |                                                       |
 +-------------------------------------------------------+
 
+- <a href=/art-manager/movies/todo.html>todo</a>
 - <a href=/art-manager/movies/2020-06-27_Knives_Out.html>Knives Out</a>
 - <a href=/art-manager/movies/2020-06-24_Ad_Astra.html>Ad Astra</a>
 - <a href=/art-manager/movies/2020-06-10_Uncut_Gems.html>Uncut Gems</a>
@@ -19,3 +20,11 @@
 - <a href=/art-manager/movies/2020-08-29_Bhaji_on_the_Beach.html>Bhaji on the Beach</a>
 - <a href=/art-manager/movies/2020-07_Back_to_the_Future.html>Back to the Future</a>
 - <a href=/art-manager/movies/2020-08-29_Death_at_a_Funeral.html>Death at a Funeral</a>
+- <a href=/art-manager/movies/2020-09_Princess_Mononoke.html>Princess Mononoke</a>
+- <a href=/art-manager/movies/2020-09_Bend_it_like_Beckham.html>Bend it like Beckham</a>
+- <a href=/art-manager/movies/2020-09_Ratatouille.html>Ratatouille</a>
+- <a href=/art-manager/movies/2020-10_The_Social_Dilemma.html>The Social Dilemma</a>
+- <a href=/art-manager/movies/2020-10_Enola_Holmes.html>Enola Holmes</a>
+- <a href=/art-manager/movies/2020-09_3_Billboards_Outside_Ebbing,_Missouri.html>3 Billboards Outside Ebbing, Missouri</a>
+- <a href=/art-manager/movies/2020-10_Bowling_for_Columbine.html>Bowling for Columbine</a>
+- <a href=/art-manager/movies/2020-08_Once_Upon_A_Christmas_Miracle.html>Once Upon A Christmas Miracle</a>

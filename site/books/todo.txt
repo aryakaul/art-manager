@@ -1,0 +1,10 @@
++-------------------------------------------------------+
+|                                                       |
+|                      TODO: BOOKS                      |
+|                                                       |
++-------------------------------------------------------+
+
+- The Comanche Empire by Pekka Hämäläinen
+- Democracy in America by Alexis de Tocqueville
+- Things Fall Apart by Chinua Achebe
+- Muqaddimah by Ibn Khaldun

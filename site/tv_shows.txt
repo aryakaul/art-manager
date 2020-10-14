@@ -4,6 +4,7 @@
 |                                                       |
 +-------------------------------------------------------+
 
+- <a href=/art-manager/tv_shows/todo.html>todo</a>
 - <a href=/art-manager/tv_shows/2020-05-28_The_Wire_Season_1.html>The Wire Season 1</a>
 - <a href=/art-manager/tv_shows/2020-06-01_Avatar_the_Last_Airbender_Book_1_Water.html>Avatar the Last Airbender Book 1 Water</a>
 - <a href=/art-manager/tv_shows/2020-06-01_Rick_and_Morty_Season_4.html>Rick and Morty Season 4</a>
@@ -13,3 +14,5 @@
 - <a href=/art-manager/tv_shows/2020-07_Avatar_the_Legend_of_Korra_Book_1_Air.html>Avatar the Legend of Korra Book 1 Air</a>
 - <a href=/art-manager/tv_shows/2020-08_Avatar_the_Legend_of_Korra_Book_2_Spirits.html>Avatar the Legend of Korra Book 2 Spirits</a>
 - <a href=/art-manager/tv_shows/2020-08_Avatar_the_Legend_of_Korra_Book_3_Change.html>Avatar the Legend of Korra Book 3 Change</a>
+- <a href=/art-manager/tv_shows/2020-09_Avatar_the_Legend_of_Korra_Book_4_Balance.html>Avatar the Legend of Korra Book 4 Balance</a>
+- <a href=/art-manager/tv_shows/2020-09_Watchmen_Season_1.html>Watchmen Season 1</a>
