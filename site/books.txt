@@ -22,3 +22,4 @@
 - <a href=/art-manager/books/2020-03-03_The_Prophet>The Prophet</a>
 - <a href=/art-manager/books/2020-03-14_Harry_Potter_and_the_Sorcerer's_Stone>Harry Potter and the Sorcerer's Stone</a>
 - <a href=/art-manager/books/2020-07-23_Watchmen.html>Watchmen</a>
+- <a href=/art-manager/books/2020-10-25_Working.html>Working</a>

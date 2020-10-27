@@ -28,3 +28,6 @@
 - <a href=/art-manager/movies/2020-09_3_Billboards_Outside_Ebbing,_Missouri.html>3 Billboards Outside Ebbing, Missouri</a>
 - <a href=/art-manager/movies/2020-10_Bowling_for_Columbine.html>Bowling for Columbine</a>
 - <a href=/art-manager/movies/2020-08_Once_Upon_A_Christmas_Miracle.html>Once Upon A Christmas Miracle</a>
+- <a href=/art-manager/movies/2020-10-20_Moana.html>Moana</a>
+- <a href=/art-manager/movies/2020-10-21_Back_to_the_Future_Part_II.html>Back to the Future Part II</a>
+- <a href=/art-manager/movies/2020-10-24_Emma..html>Emma.</a>
