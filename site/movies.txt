@@ -31,3 +31,4 @@
 - <a href=/art-manager/movies/2020-10-20_Moana.html>Moana</a>
 - <a href=/art-manager/movies/2020-10-21_Back_to_the_Future_Part_II.html>Back to the Future Part II</a>
 - <a href=/art-manager/movies/2020-10-24_Emma..html>Emma.</a>
+- <a href=/art-manager/movies/2020-11-01_Wallace_&_Gromit:_Curse_of_the_Wererabbit.html>Wallace & Gromit: Curse of the Wererabbit</a>

@@ -16,3 +16,4 @@
 - <a href=/art-manager/tv_shows/2020-08_Avatar_the_Legend_of_Korra_Book_3_Change.html>Avatar the Legend of Korra Book 3 Change</a>
 - <a href=/art-manager/tv_shows/2020-09_Avatar_the_Legend_of_Korra_Book_4_Balance.html>Avatar the Legend of Korra Book 4 Balance</a>
 - <a href=/art-manager/tv_shows/2020-09_Watchmen_Season_1.html>Watchmen Season 1</a>
+- <a href=/art-manager/tv_shows/2020-10-31_Over_the_Garden_Wall.html>Over the Garden Wall</a>
