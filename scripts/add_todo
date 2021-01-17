@@ -3,7 +3,7 @@
 add_todo() {
     read -ep "What is the name of the art you want to eventually consume? " entry_name
     read -ep "Creator? " creator 
-    echo "- $entry_name by $creator" >> ../site/$2/todo.txt
+    echo "- $entry_name by $creator" | fold -w57 -s >> ../site/$2/todo.txt
 }
 
 die() {
