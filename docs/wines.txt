@@ -6,3 +6,4 @@
 
 - <a href=/art-manager/wines/2020-12-23_La_Crema_2017_Pinot_Noir.html>La Crema 2017 Pinot Noir</a>
 - <a href=/art-manager/wines/2020-12-28_Ridge_2018_Geyserville_Blend.html>Ridge 2018 Geyserville Blend</a>
+- <a href=/art-manager/wines/2021-01-17_Robert_Mondavi_Merlot_2018.html>Robert Mondavi Merlot 2018</a>
